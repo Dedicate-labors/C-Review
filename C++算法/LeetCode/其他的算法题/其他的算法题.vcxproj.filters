@@ -18,5 +18,14 @@
     <ClCompile Include="数组处理问题1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="求数字问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="找数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="找队友.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

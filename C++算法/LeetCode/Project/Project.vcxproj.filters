@@ -51,5 +51,346 @@
     <ClCompile Include="19.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="20.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="21.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="404.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="501.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="113.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="295.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="117.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LCP19.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="771.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="75.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="344.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="141.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="142.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="416.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="530.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1002.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="116.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="52.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="844.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="143.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="925.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="763.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="234.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1024.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="845.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1365.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="53.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="144.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="面试题17.16按摩师.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1025.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1207.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="121.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="198.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="746.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="129.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offer42.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="303.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="463.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="977.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="70.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="474.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="381.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="349.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="140.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="140-解2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="941.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="57.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="127.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1356.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="22.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="122.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="327.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="973.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1030.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="134.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="283.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="31.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="147.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="922.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offer52.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="328.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="42.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offer29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="242.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1122.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="452.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="402.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="406.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="222.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1370.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="514.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="148.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="976.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="767.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="34.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="321.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="204.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="164.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="659.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="454.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="621.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="118.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="493.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="861.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="842.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="62.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="860.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="649.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="300.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="379.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="217.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="49.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="738.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="26.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="290.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="389.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="316.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="103.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="387.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="714.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="455.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="48.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="135.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="205.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="188.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="330.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1046.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="435.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="面试题08.01.cpp">
+      <Filter>源文件</Filter>
+    </None>
   </ItemGroup>
 </Project>
